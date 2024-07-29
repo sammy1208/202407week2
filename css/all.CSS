@@ -54,7 +54,6 @@ table {
 *::before,
 *::after {
   box-sizing: border-box;
-  outline: solid 1px #ad0a0a;
 }
  body{
     line-height: 1.5;
